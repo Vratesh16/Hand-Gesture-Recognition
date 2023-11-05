@@ -13,11 +13,7 @@ are devices which can show variable resistance based on various bend angles
 voltage is sent to one analog port of the micro-controller. The glove is mounted 
 with 5 flex sensors, each on one finger of the glove.
 • The American sign language also contains letters which involve wrist movements 
-while trying to communicate. An accelerometer sensor supports the micro-controller to sense the gestures. The micro-controller will map these analog 
+while trying to communicate. An accelerometer sensor supports the microcontroller to sense the gestures. The microcontroller will map these analog 
 current signals and accelerometer values to codes corresponding to each gesture.
  Flex Resistors Connection Arduino To HC-05 Bluetooth Module
 Arduino To Accelerometer
-# RESULTS
-Show with photos the final implementation and the results obtained along with any other 
-relevant information. 
-Paste photos of various operating steps/conditions and outputs
